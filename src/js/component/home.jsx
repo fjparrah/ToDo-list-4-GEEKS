@@ -17,9 +17,9 @@ const Home = () => {
 
   return (
     <>
-      <div className="container col-sm-12 col-lg-6  ">
+      <div className="container col-lg-6  col-xs-12">
         <div className="row mt-5">
-          <div className="container">
+          <div className="container-lg ">
             <h1>To-do List </h1>
           </div>
           <div className="container mt-3">
